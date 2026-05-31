@@ -25,6 +25,15 @@ header {
   margin-bottom: 2.5rem;
 }
 
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 2px solid #30363d;
+}
+
 h1 {
   font-size: 2.25rem;
   font-weight: 600;
